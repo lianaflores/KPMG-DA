@@ -1,0 +1,1 @@
+This project involves cleaning and transforming data from acustomer dataset, which can include handling missing values, standardizing text, and organizing the data for analysis. Also drafted an email to your client identifying data quality issues and strategies to mitigate the issues.
